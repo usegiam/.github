@@ -23,7 +23,7 @@ Giam is a lightweight **Label-Based Access Control** (LBAC) proxy that sits in f
 
 Below is an example of Giam’s web UI where you can define per-team access policies for Prometheus and Loki:
 
-![LBAC Configuration UI](./assets/lbac.png)
+![LBAC Configuration UI](../assets/lbac.png)
 
 1. **Select Team** – Choose or import a team from your identity provider.
 2. **Select Datasource** – Apply rules to Prometheus/Thanos (metrics) or Loki (logs).
